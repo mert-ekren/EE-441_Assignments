@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPath": "D:\\miniconda\\Library\\mingw-w64\\bin\\gcc.exe"
+        }
+    ],
+    "version": 4
+}
